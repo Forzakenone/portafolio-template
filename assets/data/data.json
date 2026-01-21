@@ -1,128 +1,97 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
-    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
-    "image": "/avatar.jpg",
-    "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
-    "media": {
-        "email": "neo@metacortex.com",
-        "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+  "title": "Guillermo Gómez | Portafolio",
+  "description": "Ingeniero Civil Informático con experiencia en desarrollo de software, automatización e inteligencia artificial.",
+  "image": "/avatar.jpg",
+  "avatar": "/avatar.jpg",
+  "name": "Guillermo Patricio Gómez Robles",
+  "skill": "Ingeniero Civil Informático | Software & AI",
+  "location": "Chile",
+  "media": {
+    "email": "guillermogomez.mhw@gmail.com",
+    "cv": "/data/cv.pdf",
+    "github": "https://github.com/forzakenone",
+    "likedin": "https://www.linkedin.com/in/guillermo-patricio-gómez-robles-1317b825a"
+  },
+  "about": "Ingeniero Civil Informático con experiencia en desarrollo de software, automatización de procesos y soluciones con inteligencia artificial. He participado en proyectos que integran tecnologías cloud, datos y agentes de IA, orientados a mejorar la eficiencia y la experiencia del usuario. Destaco por mi capacidad de adaptación, trabajo en equipo y enfoque práctico para la resolución de problemas, con un fuerte interés en el aprendizaje continuo y la innovación tecnológica.",
+  "technologies": [
+    { "icon": "devicon-python-plain", "name": "Python" },
+    { "icon": "devicon-django-plain", "name": "Django" },
+    { "icon": "devicon-flutter-plain", "name": "Flutter" },
+    { "icon": "devicon-dart-plain", "name": "Dart" },
+    { "icon": "devicon-html5-plain", "name": "HTML" },
+    { "icon": "devicon-css3-plain", "name": "CSS" },
+    { "icon": "devicon-postgresql-plain", "name": "PostgreSQL" },
+    { "icon": "devicon-mongodb-plain", "name": "MongoDB" },
+    { "icon": "devicon-googlecloud-plain", "name": "BigQuery" }
+  ],
+  "experience": [
+    {
+      "icon": "code",
+      "title": "TG Corp / TG Data",
+      "subtitle": "Ingeniero en IA Junior",
+      "description": "Diseño, desarrollo e implementación de agentes virtuales basados en IA utilizando Vertex AI y Google ADK. Automatización de consultas y procesos internos mediante integración con BigQuery y agentes de IA. Participación en proyectos para múltiples empresas, entregando soluciones funcionales y de alto estándar.",
+      "date": "03.2025 – 10.2025"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
-    "technologies": [
-        {
-            "icon": "devicon-devicon-plain",
-            "name": "Binario"
-        },
-        {
-            "icon": "devicon-devicon-plain",
-            "name": "Ensamblador"
-        },
-        {
-            "icon": "devicon-devicon-plain",
-            "name": "COBOL"
-        },
-        {
-            "icon": "devicon-c-plain",
-            "name": "C"
-        },
-        {
-            "icon": "devicon-python-plain",
-            "name": "Python"
-        }
-    ],
-    "experience": [
-        {
-            "icon": "terminal",
-            "title": "Metacortex",
-            "subtitle": "Programador",
-            "description": "Programo software respetable desde un cubículo.",
-            "date": "1999"
-        },
-        {
-            "icon": "rabbit",
-            "title": "Nebuchadnezzar",
-            "subtitle": "El Elegido",
-            "description": "Me encargo de salvar el mundo.",
-            "date": "1999 - Actualidad"
-        }
-    ],
-    "projects": [
-        {
-            "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
-            "technologies": [
-                {
-                    "icon": "devicon-python-plain",
-                    "name": "Python"
-                },
-                {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
-                }
-            ],
-            "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
-        },
-        {
-            "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
-            "technologies": [
-                {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Binario"
-                }
-            ],
-            "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
-        }
-    ],
-    "training": [
-        {
-            "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
-        },
-        {
-            "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
-        }
-    ],
-    "extras": [
-        {
-            "image": "/extra_1.jpg",
-            "title": "The Matrix",
-            "description": "Aparecí en esta película.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix"
-        },
-        {
-            "image": "/extra_2.jpg",
-            "title": "The Matrix Reloaded",
-            "description": "Y en esta otra.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
-        },
-        {
-            "image": "/extra_3.jpg",
-            "title": "The Matrix Revolutions",
-            "description": "Y en esta más.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
-        }
-    ]
+    {
+      "icon": "code",
+      "title": "Gamificación",
+      "subtitle": "Programador Front-End (Práctica)",
+      "description": "Desarrollo de interfaces web y móviles utilizando Python, Flutter, Dart y HTML/CSS. Participación activa en metodologías ágiles Scrum, colaborando en sprints, reuniones diarias y entregables incrementales. Apoyo en UX/UI para mejorar la interacción del usuario.",
+      "date": "05.2023 – 11.2023"
+    },
+    {
+      "icon": "code",
+      "title": "Mekano Consulting S.A.",
+      "subtitle": "Trainee de Ciberseguridad",
+      "description": "Análisis de riesgos de ciberseguridad y documentación de niveles de seguridad internos y externos. Revisión y mejora de políticas de contraseñas para el resguardo de credenciales.",
+      "date": "12.2023 – 02.2024"
+    }
+  ],
+  "projects": [
+    {
+      "icon": "code",
+      "title": "Agentes Virtuales con IA",
+      "subtitle": "Soluciones empresariales",
+      "description": "Desarrollo de agentes virtuales inteligentes para automatizar consultas y procesos internos, integrando Vertex AI, Google ADK y BigQuery.",
+      "technologies": [
+        { "icon": "devicon-python-plain", "name": "Python" },
+        { "icon": "devicon-googlecloud-plain", "name": "Vertex AI" }
+      ],
+      "image": "/project_1.jpg"
+    },
+    {
+      "icon": "code",
+      "title": "Aplicaciones Web y Móviles",
+      "subtitle": "Proyecto académico y profesional",
+      "description": "Implementación de interfaces web y móviles con foco en experiencia de usuario, usando Flutter, Dart y tecnologías web.",
+      "technologies": [
+        { "icon": "devicon-flutter-plain", "name": "Flutter" },
+        { "icon": "devicon-dart-plain", "name": "Dart" }
+      ],
+      "image": "/project_2.jpg"
+    }
+  ],
+  "training": [
+    {
+      "icon": "code",
+      "title": "Universidad Autónoma de Chile",
+      "subtitle": "Ingeniería Civil Informática",
+      "description": "Formación profesional en desarrollo de software, bases de datos, metodologías ágiles y tecnologías de la información.",
+      "date": "2019 – 2024"
+    }
+  ],
+  "extras": [
+    {
+      "image": "/extra_1.jpg",
+      "title": "Metodologías Ágiles",
+      "description": "Experiencia trabajando con Scrum y PDCA en entornos colaborativos.",
+      "url": ""
+    },
+    {
+      "image": "/extra_2.jpg",
+      "title": "Inteligencia Artificial",
+      "description": "Interés y experiencia en soluciones de IA aplicada a procesos reales.",
+      "url": ""
+    }
+  ]
 }
